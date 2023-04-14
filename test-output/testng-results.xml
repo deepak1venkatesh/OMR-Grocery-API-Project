@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21707" started-at="2023-04-12T13:35:54Z" finished-at="2023-04-12T13:36:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21707" started-at="2023-04-12T13:35:54Z" finished-at="2023-04-12T13:36:15Z">
+      <class name="com.main.BasicAuthLogin2">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.main.BasicAuthLogin2@43814d18]" name="login" duration-ms="4952" started-at="2023-04-12T13:35:54Z" finished-at="2023-04-12T13:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="addUserAddress()[pri:1, instance:com.main.BasicAuthLogin2@43814d18]" name="addUserAddress" duration-ms="5848" started-at="2023-04-12T13:35:59Z" finished-at="2023-04-12T13:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserAddress -->
+        <test-method status="PASS" signature="FindStateIdByStateName()[pri:2, instance:com.main.BasicAuthLogin2@43814d18]" name="FindStateIdByStateName" duration-ms="1620" started-at="2023-04-12T13:36:05Z" finished-at="2023-04-12T13:36:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindStateIdByStateName -->
+        <test-method status="PASS" signature="FindCityIdByCityName()[pri:3, instance:com.main.BasicAuthLogin2@43814d18]" name="FindCityIdByCityName" duration-ms="1786" started-at="2023-04-12T13:36:07Z" finished-at="2023-04-12T13:36:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindCityIdByCityName -->
+        <test-method status="PASS" signature="UpdateUserAddress()[pri:5, instance:com.main.BasicAuthLogin2@43814d18]" name="UpdateUserAddress" duration-ms="1514" started-at="2023-04-12T13:36:09Z" finished-at="2023-04-12T13:36:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateUserAddress -->
+        <test-method status="PASS" signature="deleteAddress()[pri:6, instance:com.main.BasicAuthLogin2@43814d18]" name="deleteAddress" duration-ms="1689" started-at="2023-04-12T13:36:10Z" finished-at="2023-04-12T13:36:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAddress -->
+        <test-method status="PASS" signature="searchproduct()[pri:7, instance:com.main.BasicAuthLogin2@43814d18]" name="searchproduct" duration-ms="1526" started-at="2023-04-12T13:36:12Z" finished-at="2023-04-12T13:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchproduct -->
+        <test-method status="PASS" signature="UpdateProfilePicture()[pri:8, instance:com.main.BasicAuthLogin2@43814d18]" name="UpdateProfilePicture" duration-ms="1793" started-at="2023-04-12T13:36:13Z" finished-at="2023-04-12T13:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateProfilePicture -->
+      </class> <!-- com.main.BasicAuthLogin2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
